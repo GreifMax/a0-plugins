@@ -1,0 +1,8 @@
+title: Subagent Resume
+description: Restores parent/subagent links and repairs interrupted tool calls after a stop or restart, guiding the agent to continue preserved subagents instead of spawning duplicates.
+github: https://github.com/GreifMax/a0-subagents-resume
+tags:
+  - subagents
+  - history
+  - reliability
+  - resume
